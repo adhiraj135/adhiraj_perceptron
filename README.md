@@ -1,6 +1,6 @@
 ## How to use this package
 ```python
-from adhi_perceptron.perceptron import Perceptron
+from adhiraj_perceptron.perceptron import Perceptron
 model = Perceptron(eta=0.3, epochs=10)
 ```
 
